@@ -7,7 +7,7 @@
   2.  ***open-source code*** *so that* ***access is simple*** *while learning*
   3.  ***function complexity*** *corresponds to* ***name verbosity and_segments***
   4.  ***minimal code repetition*** *to allow* ***legible source code*** *unless logically required*
-  5.  ***hierarchical importance action*** *before* ***object function*** *when naming*
+  5.  ***hierarchical importance action*** *before* ***subset or connected function*** *when naming*
   6.  ***automated memory allocation*** *and* ***safe data accessing*** *for anxiety free code*
   7.  ***library files are independent*** *and are* ***individual entities***
 
